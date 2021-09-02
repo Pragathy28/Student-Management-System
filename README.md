@@ -8,10 +8,18 @@ In this project we Get all the student details,Add a new student deatil,Update,D
 Browser->Student Controller<->Student Service<->Student Repository<->MySQL
 
 ## Requirements:
-1.Spring Tool Suite IDE
-2.JDK 16 
-3.Tomcat
-4.MySQL DataBase
+1. Spring Tool Suite IDE
+1. JDK 16 
+1. Tomcat
+1. MySQL DataBase
 
 ## Screenshots
+Create New Student:
+
+List Of Students(Add New Student):
+![Screenshot (150)](https://user-images.githubusercontent.com/88607011/131869268-cbbf7eb3-78e0-4e34-bf07-1fee7d2b3831.png)
+Delete:
+![Screenshot (151)](https://user-images.githubusercontent.com/88607011/131869279-e8dc2f12-18fa-4065-afe0-bab3229f59d8.png)
+Update:
+![Screenshot (152)](https://user-images.githubusercontent.com/88607011/131869290-73fc4e53-c771-44da-b527-1ed77e7842ca.png)
 
